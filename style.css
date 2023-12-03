@@ -1,0 +1,63 @@
+.grid-container {
+  position: absolute;
+  width: 100px;
+}
+.grid-item-1 {
+  height: 80px;
+  width: 100px;
+  background-color: rgb(108, 165, 42);
+  color: white;
+  margin-left: 50px;
+  
+}
+.grid-item-2 {
+  height: 80px;
+  width: 100px;
+  background-color: rgb(42, 165, 138);
+  color: white;
+  margin-left: 70px;
+  margin-top: -40px;
+  position: absolute;
+  z-index: 1;
+}
+.grid-item-3 {
+  height: 80px;
+  width: 100px;
+  background-color: rgb(130, 42, 165);
+  color: white;
+  margin-left: 100px;
+  position: absolute;
+}
+.grid-container1 {
+  position: absolute;
+  width: 100px;
+}
+.grid-item {
+  height: 80px;
+  width: 100px;
+  margin-top: 200px;
+  background-color: rgb(201, 214, 13);
+  color: white;
+  margin-left: 50px;
+  
+}
+.grid-item4{
+  height: 80px;
+  width: 100px;
+  
+  background-color: rgb(42, 165, 63);
+  color: white;
+  margin-top: -15px;
+  margin-left: 70px;
+  
+}
+.grid-item5{
+  height: 80px;
+  width: 100px;
+  
+  background-color: rgb(165, 42, 48);
+  color: white;
+  margin-top: -15px;
+  margin-left: 100px;
+  
+}
